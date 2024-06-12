@@ -4,8 +4,10 @@
 Projeto desenvolvido durante o curso, Lógica de programação: praticando com desafios da empresa Alura, a partir do programa Embarque Digital da Prefeitura da Cidade do Recife. Neste curso, desenvolvi o AluGames que consiste num simples sistema de alugar e devolver jogos.
 </p>
 
-- Analisar o código de uma página HTML para entender sua estrutura e planejar o código de sua funcionalidade;
-- Declarar variáveis no JavaScript para armazenar elementos recuperados da página.
+- Recuperar elementos da página com JavaScript, com o uso das funções document.querySelector() e document.getElementById();
+- Acessar a lista de classes que um elemento da página possui, via propriedade classList;
+- Alterar o texto de um elemento da página, via propriedade textContent;
+- Declarar um bloco condicional if/else, para implementar a funcionalidade de alterar o status de um jogo.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
